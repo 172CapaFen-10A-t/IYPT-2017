@@ -2,20 +2,18 @@
 
 Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yazınız. 
 
-Sınıf | Öğrenci İsmi  | Numara
--------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+Sınıf | Öğrenci İsmi        |Numara
+------|---------------------|-------
+10-A  | Nisa Dervişoğlu     |403
+10-A  |Talha Özer Şahınoğlu |383
 
-#  (buraya proje başlığını yazınız)
+# CANDLE IN WATER(SUDA MUM)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Eski çağlardan beri kullanılan mumun yanması çok da basit bir olay değil. Parafin veya benzer özellikteki bir malzeme tarafından sarılmış fitil mumun yanmasını sağlayan esas bileşenlerdir. Mum ilk yakıldığında fitil alev alır, yanan fitilin ısısıyla erime noktası hayli düşük olan parafin erir, eriyen parafin emici özelliği olan fitil tarafından emilerek, fitilin üst kısımlarına doğru çıkar, orada buharlaşır ve alev alır, böylece yanma devam eder. Belki aklınıza mumun neden sadece üst kısmının yandığı da gelebilir, hemen açıklayalım. Buharlaşma endotermik (ısı alan) bir olaydır. Parafinin bir kısmı buharlaşırken diğer kısmı soğur ve fitilin altta kalan parçasını korur. Muma üflediğimiz zaman mumun yanmasını sağlayan sıcak parafin buharı uzaklaştığı için mum söner.Peki,gelelim sönmeyen muma sönmeyen mumda ihtiyacımız olan malzemeler yağ, su, plastik,fitil ve çakmaktır . Suyun içine biraz yağ dökülür. Plastik parçasının içine küçük bir delik açılır ve fitil bu delikten geçirilir.Daha sonra suya bırakılır. Kaldırma kuvvetinin etkisiyle yukarı çıkan fitile çakmakla ateş verilir.Fitil yanmaya devam eder.
 
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ https://www.ipuclarim.com/suda-yanan-mum-nasil-hazirlanir/
 
+'git add .'
